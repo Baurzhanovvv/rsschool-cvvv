@@ -5,11 +5,11 @@ Hi! My name is Amir, and I'm junior frontend developer. I live in Kazakhstan, As
 
 # What I use.
 
- I know HTML&CSS&SCSS, ReactJS, Javascript, Typescript, Redux, GraphQL, MaterialUI, Bootstrap and etc.
+I have experience working with a variety of frontend technologies including JavaScript, TypeScript, React, Redux, GraphQL, HTML, CSS, and SCSS.
 ## My Experience.
 
-You can see all my works on my GitHub account https://github.com/AmirBaurzhanov .
-And I have one commercial work you can see it https://feplex.com , I did frontend for this website on reactjs.
+I have completed a commercial project, which has provided me with hands-on experience and a strong understanding of the development process. You can see it on feplex.com
+And I have a lot of project on my GitHub account. https://github.com/AmirBaurzhanov
 
 ##  Communicate with me.
 
